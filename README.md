@@ -1,2 +1,2 @@
-# site
+# Site
 The Site.
